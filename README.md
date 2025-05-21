@@ -56,8 +56,7 @@ git clone https://github.com/vishvaparathy/Laravel_Sample_Dress_Store_App.git
 cd crud_app
 composer install
 php artisan key:generate
-
-# Setup DB in .env, then:
+Setup DB in .env, then:
 php artisan migrate
 php artisan serve
 
