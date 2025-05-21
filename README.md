@@ -29,7 +29,8 @@ Others: Laravel Artisan, Eloquent ORM, MVC architecture
 
 
 ## Create Product
-![Screenshot (795)](https://github.com/user-attachments/assets/3362574f-b3d9-4ed3-86ff-3ff12d4a972b)
+![Screenshot (802)](https://github.com/user-attachments/assets/f8c30d52-48f1-4109-8139-e778e5465b32)
+
 
 ## View Product
 
@@ -38,8 +39,11 @@ Others: Laravel Artisan, Eloquent ORM, MVC architecture
 ![Screenshot (797)](https://github.com/user-attachments/assets/312c0a83-a50e-4f78-a29f-50edbee8d4e4)
 
 ## Edit Product
+![Screenshot (803)](https://github.com/user-attachments/assets/d440c5e3-0a09-4cfe-928d-0261b8963c26)
 
-![Screenshot (798)](https://github.com/user-attachments/assets/f6a16f9b-c5f3-4b00-b974-b784d8151e86)
+## Delete Product
+![Screenshot (804)](https://github.com/user-attachments/assets/fdec7472-58ae-42d6-8136-7a8938694ed3)
+![Screenshot (805)](https://github.com/user-attachments/assets/9993e9af-6fdd-4017-9713-51ac1a77a04d)
 
 ## Screenshot of stored Products
 
